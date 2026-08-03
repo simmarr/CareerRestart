@@ -20,8 +20,7 @@
 - Unordered maps
 
 ## LeetCode
-
-- 217. Contains Duplicate
+- 217 . Contains Duplicate
 
 ## Current Goal
 
