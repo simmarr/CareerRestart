@@ -21,6 +21,7 @@
 
 ## LeetCode
 - 217 . Contains Duplicate
+- 125 .Valid Palindrome
 
 ## Current Goal
 
