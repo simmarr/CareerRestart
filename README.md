@@ -18,6 +18,7 @@
 - Linear search
 - Time complexity basics
 - Unordered maps
+- two pointers
 
 ## LeetCode
 - 217 . Contains Duplicate
