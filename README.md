@@ -2,9 +2,9 @@
 
 ## Current Progress
 
-- C++ fundamentals completed through Day 20
-- Current DSA topic: Hash Maps
-- LeetCode problems solved: 1
+- C++ fundamentals completed through Day 22
+- Current DSA topic: Sliding Windoe
+- LeetCode problems solved: 3
 
 ## Completed Topics
 
@@ -18,11 +18,13 @@
 - Linear search
 - Time complexity basics
 - Unordered maps
-- two pointers
+- Two pointers
+- Sliding Window
 
 ## LeetCode
 - 217 . Contains Duplicate
-- 125 .Valid Palindrome
+- 125 . Valid Palindrome
+- 643 . Maximum Average SubArray 1
 
 ## Current Goal
 
