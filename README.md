@@ -20,6 +20,7 @@
 - Unordered maps
 - Two pointers
 - Sliding Window
+- Varibale Sliding Window
 
 ## LeetCode
 - 217 . Contains Duplicate

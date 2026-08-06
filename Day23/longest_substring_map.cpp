@@ -1,3 +1,8 @@
+#include<iostream>
+#include<unordered_map>
+
+using namespace std;
+
 int lengthOfLongestSubstring(string s)
 {
     int left = 0;
@@ -23,4 +28,16 @@ int lengthOfLongestSubstring(string s)
     }
 
     return largest;
+}
+
+int main(){
+    string s;
+    cin>>s;
+
+    int result=lengthOfLongestSubstring(s);
+
+    cout<<result<<endl;
+
+    return 0;
+
 }

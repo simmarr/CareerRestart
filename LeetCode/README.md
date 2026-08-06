@@ -11,7 +11,7 @@
 
 ## Medium
 
-None
+- ✅ 3 . Logest Substring without repeating character
 
 ## Hard
 
