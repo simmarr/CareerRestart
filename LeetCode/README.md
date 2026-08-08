@@ -11,7 +11,9 @@
 
 ## Medium
 
-- ✅ 3 . Logest Substring without repeating character
+- ✅ 3 . Longest Substring without repeating character
+- ✅ 424 . Longest Repeating character replacement
+
 
 ## Hard
 
