@@ -9,3 +9,7 @@ h1{
     padding:10px 20px;
     font-size:16px;
 }
+.started{
+    color:green;
+    font-weight:bold;
+}
